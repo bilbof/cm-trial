@@ -7,7 +7,7 @@
 
 ## Usage
 
-1. Download, CD, install dependencies
+1) Download, CD, install dependencies
 
 ```
 git clone https://github.com/bilbof/cm-trial
@@ -15,7 +15,7 @@ cd cm-trial
 npm install
 ```
 
-2. Add ChartMogul API keys ([found here](https://app.chartmogul.com/#admin/api))
+2) Add ChartMogul API keys ([found here](https://app.chartmogul.com/#admin/api))
 
 ```
 var auth = {
@@ -24,7 +24,7 @@ var auth = {
 };
 ```
 
-3. Run
+3) Run
 
 ```
 node index.js
